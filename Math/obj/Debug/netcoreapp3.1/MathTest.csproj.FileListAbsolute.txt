@@ -1,0 +1,13 @@
+C:\Users\Sergey\source\repos\Math\Math\bin\Debug\netcoreapp3.1\MathTest.exe
+C:\Users\Sergey\source\repos\Math\Math\bin\Debug\netcoreapp3.1\MathTest.deps.json
+C:\Users\Sergey\source\repos\Math\Math\bin\Debug\netcoreapp3.1\MathTest.runtimeconfig.json
+C:\Users\Sergey\source\repos\Math\Math\bin\Debug\netcoreapp3.1\MathTest.runtimeconfig.dev.json
+C:\Users\Sergey\source\repos\Math\Math\bin\Debug\netcoreapp3.1\MathTest.dll
+C:\Users\Sergey\source\repos\Math\Math\bin\Debug\netcoreapp3.1\MathTest.pdb
+C:\Users\Sergey\source\repos\Math\Math\obj\Debug\netcoreapp3.1\MathTest.csprojAssemblyReference.cache
+C:\Users\Sergey\source\repos\Math\Math\obj\Debug\netcoreapp3.1\MathTest.AssemblyInfoInputs.cache
+C:\Users\Sergey\source\repos\Math\Math\obj\Debug\netcoreapp3.1\MathTest.AssemblyInfo.cs
+C:\Users\Sergey\source\repos\Math\Math\obj\Debug\netcoreapp3.1\MathTest.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\Math\Math\obj\Debug\netcoreapp3.1\MathTest.dll
+C:\Users\Sergey\source\repos\Math\Math\obj\Debug\netcoreapp3.1\MathTest.pdb
+C:\Users\Sergey\source\repos\Math\Math\obj\Debug\netcoreapp3.1\MathTest.genruntimeconfig.cache
