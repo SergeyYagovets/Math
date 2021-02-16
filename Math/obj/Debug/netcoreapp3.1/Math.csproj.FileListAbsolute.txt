@@ -1,0 +1,4 @@
+C:\Users\Sergey\source\repos\Math\Math\obj\Debug\netcoreapp3.1\Math.csprojAssemblyReference.cache
+C:\Users\Sergey\source\repos\Math\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfoInputs.cache
+C:\Users\Sergey\source\repos\Math\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfo.cs
+C:\Users\Sergey\source\repos\Math\Math\obj\Debug\netcoreapp3.1\Math.csproj.CoreCompileInputs.cache
